@@ -7,13 +7,13 @@ Original file is located at
     https://colab.research.google.com/drive/1zH-MmYSNxpJZGIb4kff5FeoWh_zyWMmP
 """
 
-!pip install openai
-!pip install streamlit
-!pip install langchain
-!pip install chromadb
-!pip install tiktoken
-!pip install -q streamlit
-!pip install pypdf
+# !pip install openai
+# !pip install streamlit
+# !pip install langchain
+# !pip install chromadb
+# !pip install tiktoken
+# !pip install -q streamlit
+# !pip install pypdf
 
 import os
 import csv
