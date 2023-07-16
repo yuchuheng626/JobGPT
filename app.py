@@ -40,7 +40,7 @@ def sidebar():
             "and preference. "
         )
         st.markdown(
-            "JobGPT is an innovative tool designed to seamlessly connect your unique qualifications, as reflected in your resume, with the ideal job that matches your preferences. It currently utilizes a self-sourced dataset, painstakingly scraped from Capital One, ensuring an update frequency of every two weeks or even more rapidly whenever possible. While this product is still under development, we actively encourage and welcome suggestions for improvement, as we strive to enhance your job-matching experience."
+            "JobGPT is an innovative tool designed to seamlessly connect your unique qualifications, as reflected in your resume, with the ideal job that matches your preferences. It currently utilizes a self-sourced dataset, scraped from Capital One, ensuring an update frequency of every two weeks or even more rapidly whenever possible. While this product is still under development, we actively encourage and welcome suggestions for improvement, as we strive to enhance your job-matching experience."
             "Feel free to improve this product https://github.com/yuchuheng626/JobGPT"
         )
         st.markdown("Made by [Chuheng Yu](https://www.linkedin.com/in/chuheng-yu99/)")
