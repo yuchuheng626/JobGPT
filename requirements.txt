@@ -2,5 +2,5 @@ langchain
 streamlit
 openai
 docx
-pypdf
+pypdf == 3.12.1
 exceptions
