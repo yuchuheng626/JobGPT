@@ -2,8 +2,5 @@ langchain
 streamlit
 openai
 docx
-re
 pypdf
-os
-io
 hashlib
