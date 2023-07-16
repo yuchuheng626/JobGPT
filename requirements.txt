@@ -3,3 +3,4 @@ streamlit
 openai
 docx
 pypdf
+exceptions
