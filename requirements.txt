@@ -1,7 +1,7 @@
-python == "3.9.12"
+python == 3.9.12
 langchain
 streamlit
 openai
 docx
-pypdf == '3.12.1'
+pypdf == 3.12.1
 exceptions
