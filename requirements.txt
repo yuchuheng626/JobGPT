@@ -3,4 +3,3 @@ streamlit
 openai
 docx
 pypdf == 3.12.1
-exceptions
