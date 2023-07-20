@@ -4,3 +4,4 @@ openai
 python-docx
 pypdf == 3.12.1
 tiktoken
+faiss-cpu
