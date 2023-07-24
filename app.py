@@ -137,7 +137,7 @@ if button or st.session_state.get("submit"):
     csv_loader = CSVLoader(csv_path, encoding='utf-8')
     documents = csv_loader.load()
 
-    text_splitter = CharacterTextSplitter(chunk_size=4000, chunk_overlap=0)
+    text_splitter = CharacterTextSplitter(chunk_size=4000, chunk_overlap=20)
     docs = text_splitter.split_documents(documents)
 
     faissIndex = FAISS.from_documents(docs, OpenAIEmbeddings(openai_api_key=st.session_state.get("OPENAI_API_KEY")))
