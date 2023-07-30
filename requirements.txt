@@ -5,3 +5,4 @@ python-docx
 pypdf == 3.12.1
 tiktoken
 faiss-cpu
+streamlit_chat
