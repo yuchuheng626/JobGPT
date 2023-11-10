@@ -5,7 +5,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.chains import RetrievalQA
 from langchain.document_loaders import CSVLoader
 import streamlit as st
-from openai.error import OpenAIError
+# from openai.error import OpenAIError
 from langchain.vectorstores import FAISS
 from pypdf import PdfReader
 from hashlib import md5
